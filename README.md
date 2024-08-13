@@ -7,3 +7,8 @@ I thrive on challenges and am always eager to learn and adapt to new technologie
 I'm constantly exploring new development tools and techniques to enhance my skill set and stay at the forefront of the industry. Let's build something amazing together!
 
 
+GitHub Stats Card
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vkerecanina=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
