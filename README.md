@@ -6,6 +6,4 @@ I thrive on challenges and am always eager to learn and adapt to new technologie
 
 I'm constantly exploring new development tools and techniques to enhance my skill set and stay at the forefront of the industry. Let's build something amazing together!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkerecanina)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vkerecanina&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkerecanina)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vkerecanina&show_icons=true&count_private=true)  
